@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+.ipynb_checkpoints
+.idea
+events.*
+*.ckpt.*
+
 # Distribution / packaging
 .Python
 env/

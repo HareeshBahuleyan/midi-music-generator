@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm-midi-lm-5.ckpt"
+all_model_checkpoint_paths: "lstm-midi-lm-5.ckpt"
