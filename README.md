@@ -4,12 +4,12 @@
 Generate music using language modelling approach with LSTM neural networks. MIDI instructions are converted into a sequence of 'words' and the task is to predict the next word in the sequence, given the previous *n* words.
 
 ## Requirements
-tensorflow==1.4.1
-Keras==2.0.8
-midi==0.2.3
-pygame===1.9.1
-pandas==0.22.0
-numpy==1.13.1
+tensorflow==1.4.1 <br>
+Keras==2.0.8 <br>
+midi==0.2.3 <br>
+pygame===1.9.1 <br>
+pandas==0.22.0 <br>
+numpy==1.13.1 <br>
 
 ## Dataset
 The MIDI files used for training the model was downloaded from [Classical Piano Midi Page - Main Page](http://www.piano-midi.de)
